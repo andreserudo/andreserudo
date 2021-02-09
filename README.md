@@ -2,7 +2,7 @@
 ### Welcome! :sunflower:
 
 Hi! :blush: <br>
-I'm André Serudo a software engineer and an Agile Enthusiast.
+I'm André Serudo, a software engineer and an Agile Enthusiast.
 
 
 ## My tools
